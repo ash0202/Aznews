@@ -1,5 +1,4 @@
-Snaps of the site:-
-
+<h3>Snaps of the site:-</h3>
 ![image](https://user-images.githubusercontent.com/53336453/135931233-1f480635-9e01-4d39-835f-e1c370b9a4cf.png)
 
 ![image](https://user-images.githubusercontent.com/53336453/135931261-6839f44b-e99a-4bf1-849a-5ddedd304065.png)
