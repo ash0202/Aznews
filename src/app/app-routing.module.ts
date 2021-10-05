@@ -48,7 +48,7 @@ const routes: Routes = [
     component : BlogdetailsComponent
   },
   {
-    path : "details",
+    path : "news/:id",
     component : DetailsComponent
   }
 ];
